@@ -16,5 +16,4 @@
     if($query){
         Header("Location: insertarClientes.php");
     }
-
 ?>
